@@ -1,7 +1,7 @@
 # Assignment-Interview_Quotes
 
 Aim:
-• Write a reusable function code for 5 pages and to scrape the following data with proper
+Write a reusable function code for 5 pages and to scrape the following data with proper
 data type conversion if required
 
 Employee Name: Object type
